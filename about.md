@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-Some information about you!
+Ваня молодец
 
-### More Information
+# Большой
+## Средненький
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+**жииир**
 
 [email@domain.com](mailto:email@domain.com)
