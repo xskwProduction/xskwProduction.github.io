@@ -1,0 +1,24 @@
+I"V<p>Добро пожаловать в мои хоромы</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>LEFT</th>
+      <th style="text-align: center">CENTER</th>
+      <th style="text-align: right">RIGHT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>По левому краю</td>
+      <td style="text-align: center">По центру</td>
+      <td style="text-align: right">По правому краю</td>
+    </tr>
+    <tr>
+      <td>текст</td>
+      <td style="text-align: center">текст</td>
+      <td style="text-align: right">текст</td>
+    </tr>
+  </tbody>
+</table>
+:ET
